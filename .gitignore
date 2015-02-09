@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.pyc
+*.bak
+*.log
+*~
+env
+nohup.out
